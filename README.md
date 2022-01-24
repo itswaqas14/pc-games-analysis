@@ -1,5 +1,5 @@
 # Analysis of PC Games Sales
-Analysis of spread of COVID-19 in different states of India
+Analysis of Sales of various PC games and series
 
 
 ### Workspace - [Colab](https://colab.research.google.com/)
